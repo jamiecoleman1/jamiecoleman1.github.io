@@ -11,11 +11,11 @@
 # (Using that method instead of site.owner, in case your posts get cloned with your repo.)
 
 # Site settings
-title: _Jamie Coleman Portfolio_
-description: _description_
+title: Jamie Coleman
+description: Design Portfolio
 owner:
-  name: _your name_ # or company name
-  url: "http://example.com" # your URL
+  name: Jamie Coleman # or company name
+  url: "https://www.linkedin.com/in/jamie-coleman-408097a5/" # your URL
 first_published: 2010 # if migrating another site, the year of your first publish
                       # Must be a 4-digit integer year (math is used on it)
 url: "http://example.com" # the base hostname & protocol for this site
