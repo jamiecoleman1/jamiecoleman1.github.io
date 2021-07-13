@@ -28,8 +28,8 @@ lang: en-us # used in HTML lang attributes
 # on landing page
 # - set the greeting only if you want to display the first green section
 greeting:
-  title: _Your greeting_  
-  text: _Your detailed greeting text_
+  title: User Experience Designer  
+  text: I took the job as a chatbot conversation designer as a business analyst. I believed business process knowledge was all that was necessary to make a good chatbot. I was wrong. I realized I needed to know more about how to design to the user's experience and I am now in school working on my Bachelors of Arts in UX Design.
 # - displayed at the bottom
 closing-head: _Your closing_
 closing-para: _Your detailed closing_
