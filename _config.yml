@@ -29,7 +29,7 @@ lang: en-us # used in HTML lang attributes
 # - set the greeting only if you want to display the first green section
 greeting:
   title: User Experience Designer  
-  text: I took the job as a chatbot conversation designer as a business analyst. I believed business process knowledge was all that was necessary to make a good chatbot. I was wrong. I realized I needed to know more about how to design to the user's experience and I am now in school working on my Bachelors of Arts in UX Design.
+  text: I was a Business Analyst when I was asked to fill the role of a chatbot conversation designer. I believed business process knowledge was all that was necessary to make a good chatbot. I was wrong and I had no idea how much this realization would change my career goals. It didn't take long before I knew I needed to know more about how to design to the user's experience and I am now in school working on my Bachelors of Arts in UX Design.
 # - displayed at the bottom
 closing-head: _Your closing_
 closing-para: _Your detailed closing_
